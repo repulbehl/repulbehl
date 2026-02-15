@@ -283,7 +283,7 @@ graph TB
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
 ### 🎨 Frontend (React + Angular)
 - ⚛️ **React.js** — Dynamic dashboards & real-time UIs
@@ -294,7 +294,7 @@ graph TB
 - 🎯 **TypeScript** for type-safe, maintainable codebases
 
 </td>
-<td width="50%">
+<td width="55%">
 
 ### ⚙️ Backend (Java + Spring + Kafka)
 - ☕ **Java 8+** — Core language with deep JVM expertise
