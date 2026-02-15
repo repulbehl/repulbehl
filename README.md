@@ -34,17 +34,25 @@
 - 👨‍👨‍👦 Led team of **6 engineers**
 
 ---
-
 <!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,angular,js,ts,python,mysql,mongodb,kafka,linux,git,aws,docker" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,angular,js,ts,python,mysql,mongodb,kafka,linux,git,aws,docker,kubernetes,flask" />
 
 </p>
 
 ---
+
+### 📊 Monitoring, Analytics & Data
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk" />
+  <img src="https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-purple?style=for-the-badge" />
+</p>
 
 <!-- ================= SKILLS ================= -->
 ## ⚡ Core Expertise
