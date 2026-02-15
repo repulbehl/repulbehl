@@ -17,7 +17,7 @@
 <!-- ░░░░░░░░░░░░░░░░░  FUTURISTIC ROLE TAGLINE  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;
-  <samp>Backend Architect · Full Stack Engineer · Data Pipeline Designer · AI Enthusiast</samp>
+  <samp>Full Stack Engineer · Data Pipeline Designer · AI Enthusiast</samp>
 </h3>
 
 <!-- ░░░░░░░░░░░░░░░░░  QUICK NAV BADGES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
