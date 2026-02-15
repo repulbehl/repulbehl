@@ -602,11 +602,11 @@ timeline
 
 | Module | Status |
 |--------|--------|
-| 📈 **Hypothesis Testing** | 🟢 Active |
-| 🤖 **Large Language Models (LLMs)** | 🟢 Active |
-| 🧮 **Machine Learning** | 🟢 Active |
+| 📈 **Hypothesis Testing** | ✅ Completed |
+| 🤖 **Large Language Models (LLMs)** | 🟡 In Progress |
+| 🧮 **Machine Learning** | 🟡 In Progress |
 | 📝 **Natural Language Processing** | 🟡 In Progress |
-| 📊 **Exploratory Data Analysis** | ✅ Completed |
+| 📊 **Exploratory Data & Product Analysis** | ✅ Completed |
 | 📉 **Statistical Modeling** | ✅ Completed |
 | 🔬 **Deep Learning** | 🟡 In Progress |
 | 🧹 **Data Wrangling** | ✅ Completed |
