@@ -10,7 +10,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░  ANIMATED TYPING EFFECT  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%9A%A1+40M%2B+Events%2FDay+%7C+84%2B+Microservices+%7C+99%25+Uptime;%F0%9F%94%A5+Java+%7C+Spring+Boot+%7C+Kafka+%7C+React+%7C+Angular;%F0%9F%A7%A0+Backend+Engineering+%2B+Data+Science+%2B+AI;%F0%9F%8F%97%EF%B8%8F+Building+Systems+That+Scale+to+Billions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=22&duration=2500&pause=800&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%9A%A1+40M%2B+Events%2FDay+%7C+84%2B+Microservices+%7C+99%25+Uptime;%F0%9F%94%A5+Java+%7C+Spring+Boot+%7C+Kafka+%7C+React+%7C+Angular;%F0%9F%A7%A0+Backend+Engineering+%2B+Data+Science+%2B+AI;%F0%9F%8F%97%EF%B8%8F+Building+Systems+That+Scale+to+Billions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -618,6 +618,7 @@ timeline
 ### 🗺️ Data Science Learning Roadmap
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#6C63FF', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#5A52D5', 'secondaryColor': '#FF6584', 'secondaryTextColor': '#ffffff', 'tertiaryColor': '#00C9A7', 'tertiaryTextColor': '#ffffff', 'noteBkgColor': '#FFC75F', 'noteTextColor': '#1a1a2e', 'fontSize': '14px' }}}%%
 mindmap
   root((🧠 Data Science))
     📊 Statistics & Math
@@ -711,15 +712,15 @@ mindmap
   <a href="https://github.com/repulbehl">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=repulbehl&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
   </a>
-  <a href="https://github.com/repulbehl">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=repulbehl&theme=tokyonight" alt="Profile Details" />
+   <a href="https://github.com/repulbehl">
+    <img width="30%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=repulbehl&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
 
 <!-- Top Languages donut -->
 <p align="center">
   <a href="https://github.com/repulbehl">
-    <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=repulbehl&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&cache_seconds=86400" alt="Top Languages" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=repulbehl&theme=tokyonight" alt="Profile Details" />
   </a>
 </p>
 
