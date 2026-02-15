@@ -10,7 +10,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+40M%2B+Events%2FDay+%7C+84%2B+Microservices+%7C+99%25+Uptime;%F0%9F%94%A5+Java+%7C+Spring+Boot+%7C+Kafka+%7C+React+%7C+Angular;%F0%9F%8F%97%EF%B8%8F+Building+Scalable+Systems+-+Handle+Billions+of+Records" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+40M%2B+Events%2FDay+%7C+84%2B+Microservices+%7C+99%25+Uptime;%F0%9F%94%A5+Java+%7C+Spring+Boot+%7C+Kafka+%7C+React+%7C+Angular;%F0%9F%8F%97%EF%B8%8F+Building+Scalable+Systems+That+Handle+Billions+of+Records" alt="Typing SVG" />
   </a>
 </p>
 
@@ -290,18 +290,22 @@ graph TB
 </tr>
 </table>
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                        END-TO-END OWNERSHIP                            │
-│                                                                         │
-│  React/Angular UI  →  REST APIs  →  Kafka Pipelines  →  MongoDB/MySQL  │
-│       ↓                   ↓              ↓                    ↓         │
-│  Dashboards         Spring Boot     Event Streaming      Data Layer     │
-│  Real-time UIs      84+ Services    40M+ Events/Day     100M+ Records  │
-│       ↓                   ↓              ↓                    ↓         │
-│                    Splunk + Grafana Monitoring                           │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<table align="center">
+<tr><td align="center" colspan="4"><b>⚡ END-TO-END OWNERSHIP</b></td></tr>
+<tr>
+<td align="center"><b>React/Angular UI</b><br><sub>Dashboards<br>Real-time UIs</sub></td>
+<td align="center">→</td>
+<td align="center"><b>REST APIs</b><br><sub>Spring Boot<br>84+ Services</sub></td>
+<td align="center">→</td>
+</tr>
+<tr>
+<td align="center"><b>Kafka Pipelines</b><br><sub>Event Streaming<br>40M+ Events/Day</sub></td>
+<td align="center">→</td>
+<td align="center"><b>MongoDB/MySQL</b><br><sub>Data Layer<br>100M+ Records</sub></td>
+<td align="center">→</td>
+</tr>
+<tr><td align="center" colspan="4"><b>📊 Splunk + Grafana Monitoring</b></td></tr>
+</table>
 
 <br>
 
@@ -531,6 +535,53 @@ timeline
 </td>
 </tr>
 </table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░  CURRENTLY PURSUING — DATA SCIENCE  ░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧠 Currently Pursuing — Data Science & AI
+
+<table>
+<tr>
+<td width="50%">
+
+### 📖 Post Graduate Program in Data Science
+🎯 **Actively upskilling** to bridge **Backend Engineering + Data Science**
+
+> 🚀 *Goal: Combine 3+ years of production-scale data pipeline experience with advanced ML & AI skills to build intelligent, data-driven systems.*
+
+</td>
+<td width="50%">
+
+### 📊 Key Modules & Skills
+<img src="https://img.shields.io/badge/📈_Hypothesis_Testing-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/🤖_Large_Language_Models_(LLMs)-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/🧮_Machine_Learning-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/📝_Natural_Language_Processing-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/📊_Exploratory_Data_Analysis-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/📉_Statistical_Modeling-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/🔬_Deep_Learning-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/🧹_Data_Wrangling_&_Preprocessing-0d1117?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
 
 <br>
 
