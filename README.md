@@ -10,7 +10,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+40M%2B+Events%2FDay+%7C+84%2B+Microservices+%7C+99%25+Uptime;%F0%9F%94%A5+Java+%7C+Spring+Boot+%7C+Kafka+%7C+React+%7C+Angular;%F0%9F%8F%97%EF%B8%8F+Building+Scalable+Systems+That+Handle+Billions+of+Records" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+40M%2B+Events%2FDay+%7C+84%2B+Microservices+%7C+99%25+Uptime;%F0%9F%94%A5+Java+%7C+Spring+Boot+%7C+Kafka+%7C+React+%7C+Angular;%F0%9F%8F%97%EF%B8%8F+Building+Scalable+Systems+-+Handle+Billions+Records" alt="Typing SVG" />
   </a>
 </p>
 
