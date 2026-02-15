@@ -1,37 +1,41 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀  REPUL BEHL — FAANG-LEVEL GITHUB PROFILE README                       -->
+<!-- 🚀  REPUL BEHL — FUTURISTIC GITHUB PROFILE README  v3.0                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░  ANIMATED HERO BANNER  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░  CYBERPUNK HERO BANNER  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Repul%20Behl&fontColor=58a6ff&fontSize=60&fontAlignY=35&desc=Senior%20Java%20Full%20Stack%20Engineer%20%7C%20Distributed%20Systems&descAlignY=55&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,15:1a1b27,30:0f3460,50:16213e,70:533483,85:e94560,100:0d1117&height=300&section=header&text=REPUL%20BEHL&fontColor=00d2ff&fontSize=70&fontAlignY=35&desc=Senior%20Java%20Full%20Stack%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Data%20Science&descAlignY=55&descSize=16&descColor=7f8c8d&animation=twinkling&stroke=00d2ff&strokeWidth=1" width="100%"/>
 </p>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░  ANIMATED TYPING EFFECT  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+40M%2B+Events%2FDay+%7C+84%2B+Microservices+%7C+99%25+Uptime;%F0%9F%94%A5+Java+%7C+Spring+Boot+%7C+Kafka+%7C+React+%7C+Angular;%F0%9F%8F%97%EF%B8%8F+Building+Scalable+Systems+-+Handle+Billions+Records" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%9A%A1+40M%2B+Events%2FDay+%7C+84%2B+Microservices+%7C+99%25+Uptime;%F0%9F%94%A5+Java+%7C+Spring+Boot+%7C+Kafka+%7C+React+%7C+Angular;%F0%9F%A7%A0+Backend+Engineering+%2B+Data+Science+%2B+AI;%F0%9F%8F%97%EF%B8%8F+Building+Systems+That+Scale+to+Billions" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░  TAGLINE + SPECIALTIES  ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░  FUTURISTIC ROLE TAGLINE  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;
-  <samp>Backend Architect · Full Stack Engineer · Data Pipeline Designer</samp>
+  <samp>Backend Architect · Full Stack Engineer · Data Pipeline Designer · AI Enthusiast</samp>
 </h3>
 
+<!-- ░░░░░░░░░░░░░░░░░  QUICK NAV BADGES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
   <a href="#-system-architecture--design">
-    <img src="https://img.shields.io/badge/🏗️_System_Design-0d1117?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🏗️_System_Design-0f3460?style=for-the-badge&logoColor=white" />
   </a>&nbsp;
   <a href="#-production-impact--metrics">
-    <img src="https://img.shields.io/badge/📊_40M+_Events/Day-0d1117?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/📊_40M+_Events/Day-533483?style=for-the-badge&logoColor=white" />
   </a>&nbsp;
   <a href="#-full-stack-engineering">
-    <img src="https://img.shields.io/badge/💻_Full_Stack-0d1117?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻_Full_Stack-e94560?style=for-the-badge&logoColor=white" />
+  </a>&nbsp;
+  <a href="#-currently-pursuing--data-science--ai">
+    <img src="https://img.shields.io/badge/🧠_Data_Science-16213e?style=for-the-badge&logoColor=white" />
   </a>&nbsp;
   <a href="#-featured-projects">
-    <img src="https://img.shields.io/badge/🔥_84+_Microservices-0d1117?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔥_84+_Microservices-0f3460?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
@@ -42,6 +46,7 @@
   <a href="https://github.com/repulbehl?tab=repositories"><img src="https://img.shields.io/github/stars/repulbehl?label=Total+Stars&style=for-the-badge&color=e3b341&logo=github" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/repul-behl-eng"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin" /></a>
 </p>
+
 
 <br>
 
@@ -67,9 +72,18 @@ const repulBehl = {
     ],
     dailyScale: "40M+ events processed",
     teamLed: 6,
+    currentlyLearning: "Data Science & AI (PG Program)",
     motto: "Build systems that scale, not systems that break."
 };
 ```
+
+<br>
+
+- 🔭 **Currently Working On:** Real-time CDC Pipelines & Enterprise ERP Systems
+- 🌱 **Currently Learning:** Data Science, LLMs, Machine Learning & Deep Learning
+- 👨‍💻 **Daily Impact:** Processing 40M+ events/day across 84+ microservices
+- 💬 **Ask Me About:** Java, Spring Boot, Kafka, System Design, React
+- ⚡ **Fun Fact:** I've resolved 100+ P1 production incidents and still sleep well 😄
 
 <br>
 
@@ -77,57 +91,61 @@ const repulBehl = {
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░  PRODUCTION IMPACT & METRICS  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 📊 Production Impact & Metrics
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header" width="80%"/>
+</p>
 
 <table align="center">
 <tr>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/40M+-58a6ff?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/40M+-00d2ff?style=for-the-badge" /><br>
 <b>Events/Day</b><br>
-<sub>Real-time CDC Pipeline</sub>
+<sub>⚡ Real-time CDC Pipeline</sub>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/84+-238636?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/84+-533483?style=for-the-badge" /><br>
 <b>Microservices</b><br>
-<sub>Kafka + Spring Boot</sub>
+<sub>🔧 Kafka + Spring Boot</sub>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/100M+-e3b341?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/100M+-e94560?style=for-the-badge" /><br>
 <b>Records Migrated</b><br>
-<sub>Spark ETL Pipelines</sub>
+<sub>🚀 Spark ETL Pipelines</sub>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/99%25-da3633?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/99%25-0f3460?style=for-the-badge" /><br>
 <b>Uptime SLA</b><br>
-<sub>Production Systems</sub>
+<sub>🛡️ Production Systems</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/70M+-bc8cff?style=for-the-badge" /><br>
 <b>Batch Records</b><br>
-<sub>Processed Daily</sub>
+<sub>📊 Processed Daily</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/80+-f778ba?style=for-the-badge" /><br>
 <b>Data Sources</b><br>
-<sub>Consolidated</sub>
+<sub>🔗 Consolidated</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/100+-ffa657?style=for-the-badge" /><br>
 <b>P1 Issues Resolved</b><br>
-<sub>Production Stability</sub>
+<sub>🔥 Production Stability</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/6-79c0ff?style=for-the-badge" /><br>
 <b>Engineers Led</b><br>
-<sub>Team Leadership</sub>
+<sub>👥 Team Leadership</sub>
 </td>
 </tr>
 </table>
@@ -191,9 +209,9 @@ flowchart LR
     DLQ --> R --> T1
     Services -.-> SP & GF
 
-    style Sources fill:#161b22,stroke:#58a6ff,color:#c9d1d9
-    style CDC fill:#161b22,stroke:#238636,color:#c9d1d9
-    style Kafka fill:#161b22,stroke:#e3b341,color:#c9d1d9
+    style Sources fill:#161b22,stroke:#00d2ff,color:#c9d1d9
+    style CDC fill:#161b22,stroke:#533483,color:#c9d1d9
+    style Kafka fill:#161b22,stroke:#e94560,color:#c9d1d9
     style Services fill:#161b22,stroke:#bc8cff,color:#c9d1d9
     style Storage fill:#161b22,stroke:#f778ba,color:#c9d1d9
     style Monitoring fill:#161b22,stroke:#ffa657,color:#c9d1d9
@@ -245,8 +263,8 @@ graph TB
     US & AS & DS -.-> EU
     US & AS & DS -.-> CF
     
-    style API_Gateway fill:#161b22,stroke:#58a6ff,color:#c9d1d9
-    style Core_Services fill:#161b22,stroke:#238636,color:#c9d1d9
+    style API_Gateway fill:#161b22,stroke:#00d2ff,color:#c9d1d9
+    style Core_Services fill:#161b22,stroke:#533483,color:#c9d1d9
     style Data_Services fill:#161b22,stroke:#bc8cff,color:#c9d1d9
     style Infra fill:#161b22,stroke:#ffa657,color:#c9d1d9
 ```
@@ -291,20 +309,17 @@ graph TB
 </table>
 
 <table align="center">
-<tr><td align="center" colspan="4"><b>⚡ END-TO-END OWNERSHIP</b></td></tr>
+<tr><td align="center" colspan="7"><b>⚡ END-TO-END OWNERSHIP FLOW</b></td></tr>
 <tr>
-<td align="center"><b>React/Angular UI</b><br><sub>Dashboards<br>Real-time UIs</sub></td>
-<td align="center">→</td>
-<td align="center"><b>REST APIs</b><br><sub>Spring Boot<br>84+ Services</sub></td>
-<td align="center">→</td>
+<td align="center"><b>🎨 React/Angular</b><br><sub>Dashboards<br>Real-time UIs</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/→-00d2ff?style=flat-square" /></td>
+<td align="center"><b>🍃 REST APIs</b><br><sub>Spring Boot<br>84+ Services</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/→-533483?style=flat-square" /></td>
+<td align="center"><b>📡 Kafka</b><br><sub>Event Streaming<br>40M+ Events/Day</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/→-e94560?style=flat-square" /></td>
+<td align="center"><b>💾 Data Layer</b><br><sub>MongoDB/MySQL<br>100M+ Records</sub></td>
 </tr>
-<tr>
-<td align="center"><b>Kafka Pipelines</b><br><sub>Event Streaming<br>40M+ Events/Day</sub></td>
-<td align="center">→</td>
-<td align="center"><b>MongoDB/MySQL</b><br><sub>Data Layer<br>100M+ Records</sub></td>
-<td align="center">→</td>
-</tr>
-<tr><td align="center" colspan="4"><b>📊 Splunk + Grafana Monitoring</b></td></tr>
+<tr><td align="center" colspan="7"><b>📊 Splunk + Grafana Monitoring</b></td></tr>
 </table>
 
 <br>
@@ -317,21 +332,26 @@ graph TB
 
 ## 🛠️ Technology Arsenal
 
+<!-- Tech stack with skillicons for premium look -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header" width="60%"/>
+</p>
+
 <table align="center">
 <tr>
-<td align="center"><b>Backend</b></td>
+<td align="center"><b>⚙️ Backend</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=java,spring,python,flask,hibernate&theme=dark" />
 </td>
 </tr>
 <tr>
-<td align="center"><b>Frontend</b></td>
+<td align="center"><b>🎨 Frontend</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css&theme=dark" />
 </td>
 </tr>
 <tr>
-<td align="center"><b>Data & Streaming</b></td>
+<td align="center"><b>📡 Data & Streaming</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=kafka,mongodb,mysql&theme=dark" />
   &nbsp;&nbsp;
@@ -341,13 +361,13 @@ graph TB
 </td>
 </tr>
 <tr>
-<td align="center"><b>DevOps & Cloud</b></td>
+<td align="center"><b>☁️ DevOps & Cloud</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,jenkins&theme=dark" />
 </td>
 </tr>
 <tr>
-<td align="center"><b>Monitoring</b></td>
+<td align="center"><b>📊 Monitoring</b></td>
 <td>
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
@@ -355,7 +375,18 @@ graph TB
 </td>
 </tr>
 <tr>
-<td align="center"><b>AI & Productivity</b></td>
+<td align="center"><b>🧠 AI & DS</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🤖 Productivity</b></td>
 <td>
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-191919?style=flat-square&logo=anthropic&logoColor=white" />
@@ -539,12 +570,16 @@ timeline
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░  CURRENTLY PURSUING — DATA SCIENCE  ░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░  CURRENTLY PURSUING — DATA SCIENCE & AI  ░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 Currently Pursuing — Data Science & AI
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header" width="60%"/>
+</p>
 
 <table>
 <tr>
@@ -555,22 +590,67 @@ timeline
 
 > 🚀 *Goal: Combine 3+ years of production-scale data pipeline experience with advanced ML & AI skills to build intelligent, data-driven systems.*
 
+**Why This Matters:**
+- 📊 Already processing **40M+ events/day** — now learning to **extract intelligence** from that data
+- 🔄 Transitioning from **data engineering** to **full-stack AI/ML engineering**
+- 🤖 Building the bridge between **scalable infrastructure** & **intelligent systems**
+
 </td>
 <td width="50%">
 
 ### 📊 Key Modules & Skills
-<img src="https://img.shields.io/badge/📈_Hypothesis_Testing-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/🤖_Large_Language_Models_(LLMs)-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/🧮_Machine_Learning-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/📝_Natural_Language_Processing-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/📊_Exploratory_Data_Analysis-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/📉_Statistical_Modeling-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/🔬_Deep_Learning-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/🧹_Data_Wrangling_&_Preprocessing-0d1117?style=flat-square" />
+
+| Module | Status |
+|--------|--------|
+| 📈 **Hypothesis Testing** | 🟢 Active |
+| 🤖 **Large Language Models (LLMs)** | 🟢 Active |
+| 🧮 **Machine Learning** | 🟢 Active |
+| 📝 **Natural Language Processing** | 🟡 In Progress |
+| 📊 **Exploratory Data Analysis** | ✅ Completed |
+| 📉 **Statistical Modeling** | ✅ Completed |
+| 🔬 **Deep Learning** | 🟡 In Progress |
+| 🧹 **Data Wrangling** | ✅ Completed |
 
 </td>
 </tr>
 </table>
+
+### 🗺️ Data Science Learning Roadmap
+
+```mermaid
+mindmap
+  root((🧠 Data Science))
+    📊 Statistics & Math
+      Hypothesis Testing
+      Probability
+      Statistical Modeling
+      Linear Algebra
+    🧮 Machine Learning
+      Supervised Learning
+      Unsupervised Learning
+      Ensemble Methods
+      Model Evaluation
+    🔬 Deep Learning
+      Neural Networks
+      CNNs & RNNs
+      Transfer Learning
+      TensorFlow / PyTorch
+    🤖 AI & LLMs
+      Large Language Models
+      Prompt Engineering
+      RAG Architecture
+      LangChain / HuggingFace
+    📝 NLP
+      Text Processing
+      Sentiment Analysis
+      Named Entity Recognition
+      Transformers
+    📈 Data Engineering
+      EDA & Visualization
+      Feature Engineering
+      Data Wrangling
+      Pipeline Design
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -581,12 +661,14 @@ timeline
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
 </p>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░  GITHUB ANALYTICS  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░  GITHUB ANALYTICS — PREMIUM  ░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -594,43 +676,66 @@ timeline
 ## 📈 GitHub Analytics
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header" width="60%"/>
+</p>
+
+<!-- Stats + Streak side by side -->
+<p align="center">
   <a href="https://github.com/repulbehl">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=repulbehl&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=repulbehl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=e94560&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/repulbehl">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=repulbehl&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img width="49%" src="https://streak-stats.demolab.com/?user=repulbehl&theme=tokyonight&hide_border=true&background=0d1117&ring=00d2ff&fire=e94560&currStreakLabel=00d2ff" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=repulbehl&bg_color=0d1117&color=00d2ff&line=e94560&point=533483&area=true&area_color=16213e&hide_border=true&custom_title=📊%20Contribution%20Activity" alt="Contribution Graph" />
+</p>
+
+<!-- Profile Summary Cards — 5 Premium Cards -->
+<p align="center">
+  <a href="https://github.com/repulbehl">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=repulbehl&theme=tokyonight" alt="Repos Per Language" />
+  </a>
+  <a href="https://github.com/repulbehl">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=repulbehl&theme=tokyonight" alt="Most Commit Language" />
+  </a>
+  <a href="https://github.com/repulbehl">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=repulbehl&theme=tokyonight" alt="Stats" />
   </a>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=repulbehl&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e3b341&area=true&area_color=238636&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/repulbehl">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=repulbehl&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  </a>
+  <a href="https://github.com/repulbehl">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=repulbehl&theme=tokyonight" alt="Profile Details" />
+  </a>
 </p>
 
+<!-- Top Languages donut -->
 <p align="center">
   <a href="https://github.com/repulbehl">
-    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=repulbehl&layout=donut-vertical&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+    <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=repulbehl&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  CONNECT & TROPHY  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  CONNECT & SOCIAL  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ## 🏆 GitHub Trophies
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/repulbehl">
-    <img src="https://github-profile-trophy.vercel.app/?username=repulbehl&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&no-cache=true" alt="GitHub Trophies"/>
-  </a>
-</p> -->
-
-<br>
-
-## 🤝 Let's Connect
+  <i>Open to collaborations, opportunities, and conversations about distributed systems, data engineering, & AI/ML!</i>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/repul-behl-eng">
@@ -643,27 +748,31 @@ timeline
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="tel:+917888559654">
-    <img src="https://img.shields.io/badge/📞_+91--7888559654-238636?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📞_+91--7888559654-533483?style=for-the-badge" />
   </a>
 </p>
 
 <br>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  QUOTE + SNAKE ANIMATION  ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  QUOTE + SNAKE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<!-- ░░░░░░░░░░░░░░░░░░  ANIMATED FOOTER WAVE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░  FUTURISTIC FOOTER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0f3460,40:533483,60:e94560,80:0f3460,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-  <samp><b>⭐ If you find my work interesting, consider giving it a star! ⭐</b></samp>
+  <samp><b>「 Systems that scale. Code that matters. Impact that lasts. 」</b></samp>
+</p>
+
+<p align="center">
+  <samp>⭐ If you find my work interesting, consider giving it a star! ⭐</samp>
 </p>
