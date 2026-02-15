@@ -1,3 +1,17 @@
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██████╗ ███████╗██████╗ ██╗   ██╗██╗         ██████╗ ███████╗██╗  ██╗██╗   ║
+║   ██╔══██╗██╔════╝██╔══██╗██║   ██║██║         ██╔══██╗██╔════╝██║  ██║██║   ║
+║   ██████╔╝█████╗  ██████╔╝██║   ██║██║         ██████╔╝█████╗  ███████║██║   ║
+║   ██╔══██╗██╔══╝  ██╔═══╝ ██║   ██║██║         ██╔══██╗██╔══╝  ██╔══██║██║   ║
+║   ██║  ██║███████╗██║     ╚██████╔╝███████╗    ██████╔╝███████╗██║  ██║███████╗
+║   ╚═╝  ╚═╝╚══════╝╚═╝      ╚═════╝ ╚══════╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝ 
+║                                                                              ║
+║       🚀 SENIOR JAVA FULL STACK ENGINEER • DATA ENGINEER • DATA SCIENTIST 🚀  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🚀  REPUL BEHL — FUTURISTIC GITHUB PROFILE README  v3.0                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -10,14 +24,14 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░  ANIMATED TYPING EFFECT  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=22&duration=2500&pause=800&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%9A%A1+40M%2B+Events%2FDay+%7C+84%2B+Microservices+%7C+99%25+Uptime;%F0%9F%94%A5+Java+%7C+Spring+Boot+%7C+Kafka+%7C+React+%7C+Angular;%F0%9F%A7%A0+Backend+Engineering+%2B+Data+Science+%2B+AI;%F0%9F%8F%97%EF%B8%8F+Building+Systems+That+Scale+to+Billions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%9A%A1+40M%2B+Events%2FDay+%7C+84%2B+Microservices+%7C+99%25+Uptime;%F0%9F%94%A5+Java+%7C+Spring+Boot+%7C+Kafka+%7C+React+%7C+Angular;%F0%9F%A7%A0+Full+Stack+Engineering+%2B+Data+Science+%2B+AI;%F0%9F%8F%97%EF%B8%8F+Building+Systems+That+Scale+to+Billions" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ░░░░░░░░░░░░░░░░░  FUTURISTIC ROLE TAGLINE  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;
-  <samp>Full Stack Engineer · Data Pipeline Designer · AI Enthusiast</samp>
+  <samp>Backend Architect · Full Stack Engineer · Data Pipeline Designer · AI Enthusiast</samp>
 </h3>
 
 <!-- ░░░░░░░░░░░░░░░░░  QUICK NAV BADGES  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -58,7 +72,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;About Me
 
-<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="coding" width="410" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```js
 const repulBehl = {
@@ -94,6 +108,18 @@ const repulBehl = {
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░  PRODUCTION IMPACT & METRICS  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=repulbehl&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%"/>
+  </a>
+</div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -159,6 +185,10 @@ const repulBehl = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏗️ System Architecture & Design
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header" width="100%"/>
+</p>
 
 ### 🔹 Real-Time CDC Data Pipeline — 40M+ Events/Day
 
@@ -279,11 +309,15 @@ graph TB
 
 ## 💻 Full Stack Engineering
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header" width="100%"/>
+</p>
+
 > **End-to-End Ownership: UI → API → Data Pipeline → Monitoring**
 
 <table>
 <tr>
-<td width="55%">
+<td width="50%">
 
 ### 🎨 Frontend (React + Angular)
 - ⚛️ **React.js** — Dynamic dashboards & real-time UIs
@@ -294,7 +328,7 @@ graph TB
 - 🎯 **TypeScript** for type-safe, maintainable codebases
 
 </td>
-<td width="55%">
+<td width="50%">
 
 ### ⚙️ Backend (Java + Spring + Kafka)
 - ☕ **Java 8+** — Core language with deep JVM expertise
@@ -405,6 +439,10 @@ graph TB
 
 ## 🔥 Featured Projects
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header" width="100%"/>
+</p>
+
 <table>
 <tr>
 <td width="50%">
@@ -489,6 +527,10 @@ graph TB
 
 ## 💼 Professional Journey
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header" width="100%"/>
+</p>
+
 ```mermaid
 timeline
     title Career Timeline
@@ -544,6 +586,10 @@ timeline
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎓 Education & Certifications
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header" width="100%"/>
+</p>
 
 <table>
 <tr>
@@ -602,11 +648,11 @@ timeline
 
 | Module | Status |
 |--------|--------|
-| 📈 **Hypothesis Testing** | ✅ Completed |
-| 🤖 **Large Language Models (LLMs)** | 🟡 In Progress |
-| 🧮 **Machine Learning** | 🟡 In Progress |
+| 📈 **Hypothesis Testing** | 🟢 Active |
+| 🤖 **Large Language Models (LLMs)** | 🟢 Active |
+| 🧮 **Machine Learning** | 🟢 Active |
 | 📝 **Natural Language Processing** | 🟡 In Progress |
-| 📊 **Exploratory Data & Product Analysis** | ✅ Completed |
+| 📊 **Exploratory Data Analysis** | ✅ Completed |
 | 📉 **Statistical Modeling** | ✅ Completed |
 | 🔬 **Deep Learning** | 🟡 In Progress |
 | 🧹 **Data Wrangling** | ✅ Completed |
@@ -713,14 +759,14 @@ mindmap
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=repulbehl&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
   </a>
    <a href="https://github.com/repulbehl">
-    <img width="30%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=repulbehl&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&cache_seconds=86400" alt="Top Languages" />
+    <img width="31%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=repulbehl&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
 
 <!-- Top Languages donut -->
 <p align="center">
   <a href="https://github.com/repulbehl">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=repulbehl&theme=tokyonight" alt="Profile Details" />
+    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=repulbehl&theme=tokyonight" alt="Profile Details" />
   </a>
 </p>
 
@@ -733,6 +779,10 @@ mindmap
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Connect
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header" width="100%"/>
+</p>
 
 <p align="center">
   <i>Open to collaborations, opportunities, and conversations about distributed systems, data engineering, & AI/ML!</i>
@@ -758,7 +808,7 @@ mindmap
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  QUOTE + SNAKE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
 <p align="center">
