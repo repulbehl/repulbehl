@@ -1,109 +1,66 @@
+<!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Repul Behl</h1>
-<h3 align="center">Senior Java Full Stack Developer | Microservices | Kafka | DevOps</h3>
 
 <p align="center">
-🚀 Building scalable systems | ⚡ Real-time data processing | 💡 40M+ events/day
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Java+Full+Stack+Developer;Microservices+%7C+Kafka+%7C+DevOps;40M%2B+Events%2FDay+Processing;Building+Scalable+Systems;Always+Learning+New+Tech&center=true&width=600&height=50">
+</p>
+
+<p align="center">
+  🚀 <b>Engineering Scalable Systems</b> | ⚡ <b>Real-time Data Pipelines</b> | 💡 <b>Problem Solver</b>
 </p>
 
 ---
 
+<!-- ================= BADGES ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=repulbehl&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/repulbehl?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/repulbehl?style=for-the-badge" />
+</p>
+
+---
+
+<!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
 
-- 💼 3+ years of experience in **Full Stack Java Development**
-- 🔥 Built **84+ microservices** handling **40M+ events/day**
-- ⚡ Expertise in **Kafka, Microservices, Spring Boot, DevOps**
-- 🧠 Strong in **Data Engineering, Batch Processing, System Design**
-- 🌱 Currently exploring **AI Engineering & Cloud Solutions**
-- 📍 Noida, India
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+- 💼 3+ years of experience in **Java Full Stack Development**
+- 🔥 Built **84+ Microservices** using **Spring Boot & Kafka**
+- ⚡ Processing **40M+ events/day** in production
+- 📊 Designed **real-time CDC pipelines**
+- 🚀 Strong in **System Design & Data Engineering**
+- 🌱 Exploring **AI Engineering & Cloud Technologies**
+- 👨‍👨‍👦 Led team of **6 engineers**
 
 ---
 
+<!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack
 
-### 🚀 Backend
-`Java 8` `Spring Boot` `Spring MVC` `Spring Batch` `Microservices` `Hibernate` `JPA` `REST APIs`
-
-### ⚡ Data & Streaming
-`Apache Kafka` `Kafka Streams` `CDC Architecture` `Airflow` `Spark`
-
-### 💻 Frontend
-`Angular` `React.js` `JavaScript` `TypeScript` `HTML` `CSS`
-
-### ⚙️ DevOps & Tools
-`Ansible` `CI/CD` `Git` `Maven` `Grafana` `Elastic` `Linux`
-
-### 🗄️ Databases
-`MySQL` `MongoDB` `H2`
-
----
-
-## 📊 Key Achievements
-
-- 🚀 Designed CDC pipeline processing **40M+ events/day**
-- ⚡ Developed **84+ microservices** using Kafka & Spring Boot
-- 📈 Processed **70M+ records** using batch frameworks
-- 🔄 Migrated **100M+ legacy records** using Spark
-- 🧩 Consolidated **80+ data sources** into master systems
-- 🛠️ Resolved **100+ production issues**, ensuring high stability
-- 👨‍👨‍👦 Led team of **6 engineers** for production rollout
-
----
-
-## 💼 Work Experience
-
-### 🔹 Infosys Ltd (2024 - Present)
-- Built **real-time data pipelines (CDC → Kafka → MongoDB)**
-- Developed **event-driven microservices architecture**
-- Processed **high-volume data with low latency**
-
-### 🔹 Wipro Technologies (2022 - 2024)
-- Developed **REST APIs & batch processing systems**
-- Automated deployments using **Ansible (DevOps)**
-- Built **Angular UI for monitoring workflows**
-- Maintained **99% uptime & production stability**
-
----
-
-## 📚 Education
-
-🎓 B.Tech in Information Technology  
-Punjab Technical University  
-📊 SGPA: 8.3
-
----
-
-## 📜 Certifications
-
-- ✔️ Full Stack Java (StackRoute)
-- ✔️ SQL (Udemy)
-- ✔️ JavaScript
-- ✔️ Cloud Core
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/repul-behl-eng" target="blank">LinkedIn</a> |
-<a href="https://github.com/repulbehl" target="blank">GitHub</a> |
-📧 repulbehl9@gmail.com |
-📞 +91-7888559654
-</p>
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=repulbehl&show_icons=true&theme=radical" alt="stats" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=repulbehl&theme=radical" alt="streak" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,angular,js,ts,python,mysql,mongodb,kafka,linux,git,aws,docker" />
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
+<!-- ================= SKILLS ================= -->
+## ⚡ Core Expertise
 
-_"Code your life with purpose"_ 🚀
+```yaml
+Backend:
+  - Java 8, Spring Boot, Microservices, REST APIs, Hibernate, JPA
+
+Data Engineering:
+  - Apache Kafka, Kafka Streams, CDC Pipelines, Spark, Airflow
+
+Frontend:
+  - React.js, Angular, JavaScript, TypeScript
+
+DevOps:
+  - CI/CD, Ansible, Git, Maven, Linux
+
+Databases:
+  - MySQL, MongoDB
