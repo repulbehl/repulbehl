@@ -649,11 +649,11 @@ timeline
 | Module | Status |
 |--------|--------|
 | 📈 **Hypothesis Testing** | 🟢 Active |
-| 🤖 **Large Language Models (LLMs)** | 🟢 Active |
-| 🧮 **Machine Learning** | 🟢 Active |
+| 🤖 **Large Language Models (LLMs)** | 🟡 In Progress |
+| 🧮 **Machine Learning** | 🟡 In Progress |
 | 📝 **Natural Language Processing** | 🟡 In Progress |
 | 📊 **Exploratory Data Analysis** | ✅ Completed |
-| 📉 **Statistical Modeling** | ✅ Completed |
+| 📉 **Statistical Modeling** | 🟡 In Progress |
 | 🔬 **Deep Learning** | 🟡 In Progress |
 | 🧹 **Data Wrangling** | ✅ Completed |
 
